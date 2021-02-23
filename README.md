@@ -91,4 +91,4 @@ This library is free software and may be distributed under the same terms as per
 
 # AVAILABILITY
 
-The most current version of Daemon::Control can be found at [https://github.com/symkat/App-FilePacker](https://github.com/symkat/App-FilePacker)
+The most current version of App::FilePacker can be found at [https://github.com/symkat/App-FilePacker](https://github.com/symkat/App-FilePacker)
